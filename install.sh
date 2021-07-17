@@ -1,6 +1,8 @@
 #!/bin/bash
 #Author:SoeZayZay
 #Github:https://github.com/soezayzay
+apt-get update -y
+apt-get upgrade -y
 echo
 pwd  >> path
 sleep 2
