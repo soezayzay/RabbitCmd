@@ -56,8 +56,8 @@ elif [ $option == "4" ];
 then
 rm -rf cmd.txt
 touch cmd.txt
-rm -rf /data/data/com.termux/files/usr/etc/bash.bashrc
-cp -r file/bash.bashrc /data/data/com.termux/files/usr/etc
+rm -rf /data/data/com.termux/files/usr/etc/profile
+cp -r file/profile /data/data/com.termux/files/usr/etc
 sleep 2
 printf $'           \e[1;32m[\e[0m\e[0;36m*\e[0m\e[1;32m]\e[0m\e[1;33m All Commands have been deleted \e[1;32m[\e[0m\e[0;36m*\e[0m\e[1;32m]\e[0m\n' 
 sleep 2 
