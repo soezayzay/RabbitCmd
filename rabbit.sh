@@ -14,7 +14,7 @@ printf "   \e[101m\e[1;77m Author:SoeZayZay Github: https://github.com/soezayzay
 echo
 printf $'\e[1;36m   ┌─────────────────────────────────────────────────────┐\e[0m\n'
 printf $'\e[1;36m   │                                                     │\e[0m\n'
-printf $'\e[1;36m   │   \e[1;32m[\e[0m\e[0;36m1\e[0m\e[1;32m]\e[0m\e[1;33m RABBIT COMMAND\e[0m    \e[1;32m[\e[0m\e[0;36m2\e[0m\e[1;32m]\e[0m\e[1;33m SHOW ALL COMMANDS\e[0m \e[1;36m      │\e[0m\n'
+printf $'\e[1;36m   │   \e[1;32m[\e[0m\e[0;36m1\e[0m\e[1;32m]\e[0m\e[1;33m RABBIT COMMAND\e[0m \e[1;32m[\e[0m\e[0;36m2\e[0m\e[1;32m]\e[0m\e[1;33m SHOW ALL COMMANDS\e[0m \e[1;36m      │\e[0m\n'
 printf $'\e[1;36m   │                                                     │\e[0m\n'
 printf $'\e[1;36m   │   \e[1;32m[\e[0m\e[0;36m3\e[0m\e[1;32m]\e[0m\e[1;33m HIDE COMMANDS\e[0m   \e[1;32m[\e[0m\e[0;36m4\e[0m\e[1;32m]\e[0m\e[1;33m DELETE ALL RABBIT COMMADS\e[0m \e[1;36m│ \e[0m\n'
 printf $'\e[1;36m   │                                                     │\e[0m\n'
